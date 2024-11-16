@@ -19,7 +19,6 @@ The **Image to PDF Converter** is a user-friendly Java-based desktop application
 ## Requirements
 
 - **Java**: JDK 17 or higher.
-- **Maven**: For managing dependencies.
 - Libraries used:
   - `Apache PDFBox`: For PDF creation.
   - `Swing`: For GUI development.
@@ -31,5 +30,5 @@ The **Image to PDF Converter** is a user-friendly Java-based desktop application
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/ImageToPdfConverter.git
+   git clone https://github.com/shibly6/ImageToPdfConverter.git
    cd ImageToPdfConverter
