@@ -31,4 +31,5 @@ The **Image to PDF Converter** is a user-friendly Java-based desktop application
 1. Clone this repository:
    ```bash
    git clone https://github.com/shibly6/ImageToPdfConverter.git
-   cd ImageToPdfConverter
+   cd ImageToPdfConverter/build
+   java -jar ImageToPdfConverter.jar   
